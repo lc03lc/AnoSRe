@@ -1,0 +1,10 @@
+{
+  "category": 13,
+  "max_length": 25,
+  "path_to_dataset": "./UCF-Crime",
+
+  "epoch": 30,
+  "lr": 2e-5,
+  "batch_size": 8,
+  "num_workers": 0
+}

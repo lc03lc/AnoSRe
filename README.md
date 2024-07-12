@@ -1,6 +1,6 @@
 # Improving Vision-based Anomaly Scene Recognition by Using Large Language Models
 
-<img src="./fig.png">
+<img src="./figure.png">
 
 ## Preparation
 
